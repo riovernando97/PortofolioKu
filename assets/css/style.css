@@ -220,6 +220,11 @@ nav {
   color: var(--color-white);
 }
 
+.featured-text-btn > .blue-btn a {
+  color: var(--color-white);
+  text-decoration: none;
+}
+
 .featured-text-btn > .blue-btn:hover {
   background: var(--first-color-hover);
 }
